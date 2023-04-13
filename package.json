@@ -1,0 +1,29 @@
+{
+  "name": "mazer-dist",
+  "version": "2.1.0",
+  "description": "",
+  "files": [
+    "*.html",
+    "assets/compiled",
+    "assets/static"
+  ],
+  "sideEffects": false,
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charescape/mazer-dist.git"
+  },
+  "keywords": [
+  ],
+  "author": "zuramai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charescape/mazer-dist/issues"
+  },
+  "homepage": "https://github.com/charescape/mazer-dist",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
